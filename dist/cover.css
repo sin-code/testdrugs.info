@@ -105,6 +105,9 @@ body {
   font-weight: 700;
 }
 
+.lead .btn {
+  margin-top: 5px; /* fix button spacing on small screens */
+}
 
 /*
  * Footer
